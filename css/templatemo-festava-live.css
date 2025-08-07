@@ -511,6 +511,7 @@ strong {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  height: calc(100vh - 0px);
 }
 
 .about-image {
