@@ -293,7 +293,7 @@ strong {
   CUSTOM BUTTON               
 -----------------------------------------*/
 .custom-btn {
-  background: var(--custom-btn-bg-color);
+  background: #055a2e8c;
   border: 2px solid transparent;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
