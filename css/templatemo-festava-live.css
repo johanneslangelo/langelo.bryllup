@@ -505,6 +505,16 @@ strong {
 /*---------------------------------------
   ABOUT              
 -----------------------------------------*/
+.location-wrap {
+    display: flex;
+    justify-content: center;  /* Sentrerer horisontalt */
+    align-items: center;      /* Sentrerer vertikalt */
+    min-height: 100vh;        /* Fyller hele høyden av skjermen */
+}
+
+.services-info {
+    text-align: center;       /* Sentrerer tekstinnholdet */
+}
 .container, 
 .services-info {
     position: relative;
