@@ -401,12 +401,9 @@ strong {
     align-items: center;      /* Sentrerer vertikalt */
 }
 
-.services-info {
-	padding-top: 16vh;
-    text-align: center;       /* Sentrerer tekstinnholdet */
-}
 .container, 
 .services-info {
+	padding-top: 16vh;
     position: relative;
     z-index: 2; /* legger teksten foran videoen */
 }
