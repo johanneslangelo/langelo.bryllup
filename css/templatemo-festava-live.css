@@ -505,6 +505,12 @@ strong {
 /*---------------------------------------
   ABOUT              
 -----------------------------------------*/
+.container, 
+.services-info {
+    position: relative;
+    z-index: 2; /* legger teksten foran videoen */
+}
+
 .about-section {
   background-color: #704010;
   background-repeat: no-repeat;
