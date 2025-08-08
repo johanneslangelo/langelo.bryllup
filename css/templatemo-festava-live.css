@@ -399,10 +399,10 @@ strong {
     display: flex;
     justify-content: center;  /* Sentrerer horisontalt */
     align-items: center;      /* Sentrerer vertikalt */
-    min-height: 100vh;        /* Fyller hele høyden av skjermen */
 }
 
 .services-info {
+	padding-top: 100vh;
     text-align: center;       /* Sentrerer tekstinnholdet */
 }
 .container, 
