@@ -341,6 +341,7 @@ strong {
   left: 0;
   object-fit: cover;
   width: 100%;
+	muted: false;
   height: 100%;
 }
 
